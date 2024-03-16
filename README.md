@@ -2,8 +2,6 @@
 
 ---
 
-**Learning Website**
-
 This project is a comprehensive learning platform designed to provide educational resources on various programming languages and technologies. It offers a combination of video tutorials, quizzes, and informative articles to help users enhance their skills and knowledge in programming.
 
 **Features:**
