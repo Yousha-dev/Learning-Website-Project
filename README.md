@@ -16,15 +16,6 @@ This project is a comprehensive learning platform designed to provide educationa
 - Tailwind CSS
 - Bootstrap 5
 - JavaScript
-
-**Contributing:**
-Contributions to the project are highly encouraged! Whether it's fixing bugs, adding new features, or improving documentation, your contributions help make this learning platform better for everyone. To contribute, simply fork the repository, make your changes, and submit a pull request.
-
-**Feedback:**
-If you have any feedback, suggestions, or issues, please feel free to open an issue on the GitHub repository. Your feedback is valuable and helps us continue improving the learning experience for all users.
-
-**License:**
-This project is licensed under the MIT License - see the [LICENSE](link-to-license-file) file for details.
-
+  
 ---
 
